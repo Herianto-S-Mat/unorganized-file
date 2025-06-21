@@ -26,7 +26,7 @@ Course ini terdiri dari 20 proyek, yang terdiri dari 5 sertifikasi dan 15 proyek
 | <font color="red">skip | Build a Personal Portfolio Webpage | Sertifikasi | Proyek Puncak, Media Queries, Tata Letak Responsif, Integrasi Proyek |</font> |
 
  
-*proyek berwana merah adalah proyek-proyek yang belum saya pelajari
+*proyek skip adalah proyek-proyek yang belum saya pelajari
  
 ## Breakdown Semua Proyek yang dipelajari
 

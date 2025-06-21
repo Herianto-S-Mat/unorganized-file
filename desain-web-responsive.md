@@ -8,22 +8,22 @@ Course ini terdiri dari 20 proyek, yang terdiri dari 5 sertifikasi dan 15 proyek
 | 2 | Learn Basic CSS by Building a Cafe Menu | Praktik | CSS Dasar, Selektor, Properti Warna & Font, Model Box (Dasar) |
 | 3 | Learn CSS Colors by Building a Set of Colored Markers | Praktik | Model Warna (RGB, HEX), Gradien CSS |
 | 4 | Learn HTML Forms by Building a Registration Form | Praktik | Formulir HTML Lanjutan, Tipe Input, Atribut Formulir, Aksesibilitas Dasar |
-| <font color="red"> | Build a Survey Form | Sertifikasi | Aplikasi HTML & CSS, Desain Formulir, Elemen Formulir Interaktif |</font> |
+| <font color="red">skip | Build a Survey Form | Sertifikasi | Aplikasi HTML & CSS, Desain Formulir, Elemen Formulir Interaktif |</font> |
 | 5 | Learn the CSS Box Model by Building a Rothko Painting | Praktik | CSS Box Model (Margin, Padding, Border, Width, Height) |
 | 6 | Learn CSS Flexbox by Building a Photo Gallery | Praktik | CSS Flexbox, Tata Letak Fleksibel, Penjajaran Item |
 | 7 | Learn Typography by Building a Nutrition Label | Praktik | Tipografi Web, Hirarki Visual, Properti Font Lanjutan |
 | 8 | Learn Accessibility by Building a Quiz | Praktik | Aksesibilitas Web (WAI-ARIA), HTML Semantik, Kontras Warna |
-| <font color="red"> | Build a Tribute Page | Sertifikasi | Aplikasi HTML & CSS, Tata Letak Halaman, Desain Responsif Dasar |</font> |
+| <font color="red">skip | Build a Tribute Page | Sertifikasi | Aplikasi HTML & CSS, Tata Letak Halaman, Desain Responsif Dasar |</font> |
 | 9 | Learn More About CSS Pseudo Selectors By Building A Balance Sheet | Praktik | Pseudo-Class & Pseudo-Element CSS, Selektor Tingkat Lanjut |
 | 10 | Learn Intermediate CSS by Building a Picasso Painting | Praktik | Positioning, Stacking Context (z-index), Transformasi CSS |
 | 11 | Learn Responsive Web Design by Building a Piano | Praktik | Media Queries, Desain Responsif, Viewport |
-| <font color="red"> | Build a Technical Documentation Page | Sertifikasi | Tata Letak Dua Kolom, Navigasi Halaman, Flexbox/Grid |</font> |
+| <font color="red">skip | Build a Technical Documentation Page | Sertifikasi | Tata Letak Dua Kolom, Navigasi Halaman, Flexbox/Grid |</font> |
 | 12 | Learn CSS Variables by Building a City Skyline | Praktik | Variabel CSS (Custom Properties) untuk Desain yang Dapat Dipelihara |
 | 13 | Learn CSS Grid by Building a Magazine | Praktik | CSS Grid, Tata Letak Berbasis Grid, Penjajaran Item Grid |
-| <font color="red"> | Build a Product Landing Page | Sertifikasi | Aplikasi Flexbox & Grid, Desain Halaman Marketing, Video Tertanam |</font> |
+| <font color="red">skip | Build a Product Landing Page | Sertifikasi | Aplikasi Flexbox & Grid, Desain Halaman Marketing, Video Tertanam |</font> |
 | 14 | Learn CSS Transforms by Building a Penguin | Praktik | Properti transform (rotate, scale, skew, translate) |
 | 15 | Learn CSS Animation by Building a Ferris Wheel | Praktik | Animasi CSS dengan @keyframes dan properti animation |
-| <font color="red"> | Build a Personal Portfolio Webpage | Sertifikasi | Proyek Puncak, Media Queries, Tata Letak Responsif, Integrasi Proyek |</font> |
+| <font color="red">skip | Build a Personal Portfolio Webpage | Sertifikasi | Proyek Puncak, Media Queries, Tata Letak Responsif, Integrasi Proyek |</font> |
 
  
 *proyek berwana merah adalah proyek-proyek yang belum saya pelajari
